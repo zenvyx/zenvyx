@@ -38,7 +38,7 @@ Focus = "Network-driven automation & web-based interactions"
 
 ## 🤝 Connect with Me
 
-- 🌐 [Contact Me](https://t.me/smartmoneyreversal) *(if you have a site)*  
+- 🌐 [Contact Me](https://t.me/smartmoneyreversal)  
 - 📬 Open to collaborating on unique automation and network-heavy projects  
 - 💡 DM-friendly for interesting side projects or tech convos
 
